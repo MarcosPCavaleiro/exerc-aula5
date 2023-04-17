@@ -1,5 +1,6 @@
 body {
-    background-image: url(https://marcospcavaleiro.github.io/exerc-aula5/Exer3/imagens/bg.jpg)
+    background-image: url(https://marcospcavaleiro.github.io/exerc-aula5/Exer3/imagens/bg.jpg);
+    background-repeat: no-repeat;
 }
 
 #formulario {
